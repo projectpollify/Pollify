@@ -89,7 +89,6 @@ Roadmap & Milestones
 
 Get Involved
 We are actively seeking developers, contributors, and community members to help build Pollify. If you are passionate about decentralization, transparency, and governance reform, join us in shaping the future.
-📢 Connect With Us 🌐 Website: Pollify.org 📩 Email: shawn@pollify.net
 
 
 
@@ -142,3 +141,4 @@ Pollify's ecosystem is powered by three distinct tokens, each serving a unique p
 Pollify's token economy is designed to support **decentralized governance, content creation, and long-term platform engagement.** By ensuring **deflationary mechanics, clear utility, and security measures**, the ecosystem fosters organic growth while protecting user investments.
 
 📢 **Stay Connected:** [shawn@pollify.net](mailto:shawn@pollify.net)
+🌐 Website: Pollify.org 
