@@ -133,7 +133,6 @@ Pollify's ecosystem is powered by three distinct tokens, each serving a unique p
 ---
 
 ## **Sustainability & Market Strategy**
-- **No Shorting or Leverage for POL:** This ensures price stability and prevents external market manipulation.
 - **Burning Mechanism for CSX & GRTM:** This adds long-term deflationary pressure to maintain value appreciation.
 - **Tiered Utility for All Tokens:** Each token has distinct functionality, preventing redundancy while ensuring interconnectivity within the Pollify ecosystem.
 
@@ -142,4 +141,4 @@ Pollify's ecosystem is powered by three distinct tokens, each serving a unique p
 ## **Final Thoughts**
 Pollify's token economy is designed to support **decentralized governance, content creation, and long-term platform engagement.** By ensuring **deflationary mechanics, clear utility, and security measures**, the ecosystem fosters organic growth while protecting user investments.
 
-📢 **Stay Connected:** [info@pollify.net](mailto:info@pollify.net)
+📢 **Stay Connected:** [shawn@pollify.net](mailto:shawn@pollify.net)
